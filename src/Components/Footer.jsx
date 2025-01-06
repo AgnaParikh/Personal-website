@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="bg-[#0563bb] text-white py-4 fixed bottom-0 left-0 w-full">
       <div className="container mx-auto flex justify-center space-x-6">
         <a
-          href="https://www.linkedin.com/in/your-profile"
+          href="https://www.linkedin.com/in/agnaparikh"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center space-x-2 px-4 py-2 bg-white text-[#0563bb] font-bold rounded-md hover:bg-gray-200 transition duration-300"
@@ -16,7 +16,7 @@ const Footer = () => {
         </a>
 
         <a
-          href="https://github.com/your-profile" 
+          href="https://github.com/AgnaParikh" 
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center space-x-2 px-4 py-2 bg-white text-[#0563bb] font-bold rounded-md hover:bg-gray-200 transition duration-300"

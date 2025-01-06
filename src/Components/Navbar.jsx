@@ -14,12 +14,12 @@ const Navbar = () => {
       <h1 className="w-full text-xl font-bold text-white-600">Agna Parikh</h1>
       <ul className='hidden md:flex '>
         <li className="p-4">
-        <a
-            href="/" 
+          <Link
+            to="/" 
             className="px-4 py-2 text-white rounded-md hover:bg-lime-700 hover:shadow-lg transition duration-300"
           >
-          Home
-          </a>
+            Home
+          </Link>
         </li>
         <li className="p-4">
         <a
@@ -39,19 +39,19 @@ const Navbar = () => {
       <div
         className={
           nav
-            ? "left-0 top-0 fixed h-full w-[60%] bg-[#99CCFF] border-r border-r-gray-900 ease-in-out duration-500"
+            ? "left-0 top-0 fixed h-full w-[60%] bg-[#0563bb] border-r border-r-gray-900 ease-in-out duration-500"
             : "fixed left-[-100%]"
         }
       >
-        <h1 className="w-full text-3xl m-4 font-bold text-lime-600">Agna Parikh</h1>
+        <h1 className="text-white w-full text-3xl m-4 font-bold text-lime-600">Agna Parikh</h1>
         <ul className="uppercase p-4">
           <li className="p-4 border-b border-b-lime-700">
-            <a
-              href="/" // Adjust the path if necessary
+            <Link
+              to="/" 
               className="px-4 py-2 text-white rounded-md hover:bg-lime-700 hover:shadow-lg transition duration-300"
             >
             Home
-            </a>
+            </Link>
           </li>
           <li className="p-4 border-b border-b-lime-700">
             <a
