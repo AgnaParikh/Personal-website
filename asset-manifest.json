@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Personal-website/static/css/main.da5421af.css",
+    "main.js": "/Personal-website/static/js/main.c9e96e6b.js",
+    "static/media/ElRetiro.jpg": "/Personal-website/static/media/ElRetiro.bf4ec30da63b457b3c0f.jpg",
+    "static/media/mypic.jpg": "/Personal-website/static/media/mypic.56c1a3b603d238012368.jpg",
+    "static/media/laptop.jpg": "/Personal-website/static/media/laptop.f760e3d47734b293ce5d.jpg",
+    "static/media/Resume.pdf": "/Personal-website/static/media/Resume.d8245f71089da46c5516.pdf",
+    "static/media/database.png": "/Personal-website/static/media/database.afdcd33cc4e2069eefc7.png",
+    "static/media/tools.png": "/Personal-website/static/media/tools.bd733c7e56eabe31a217.png",
+    "static/media/ai.png": "/Personal-website/static/media/ai.4ad2c7d27e1960ce6aff.png",
+    "static/media/unit-testing.png": "/Personal-website/static/media/unit-testing.1d6d4eaa0fd12e9569a8.png",
+    "static/media/analytics.png": "/Personal-website/static/media/analytics.d37178e26a8a020232a2.png",
+    "index.html": "/Personal-website/index.html",
+    "main.da5421af.css.map": "/Personal-website/static/css/main.da5421af.css.map",
+    "main.c9e96e6b.js.map": "/Personal-website/static/js/main.c9e96e6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da5421af.css",
+    "static/js/main.c9e96e6b.js"
+  ]
+}
