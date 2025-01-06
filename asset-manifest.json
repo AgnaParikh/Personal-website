@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Personal-website/static/css/main.da5421af.css",
-    "main.js": "/Personal-website/static/js/main.3a58af35.js",
+    "main.css": "/Personal-website/static/css/main.15a4942f.css",
+    "main.js": "/Personal-website/static/js/main.39be8fd0.js",
     "static/media/ElRetiro.jpg": "/Personal-website/static/media/ElRetiro.bf4ec30da63b457b3c0f.jpg",
     "static/media/mypic.jpg": "/Personal-website/static/media/mypic.56c1a3b603d238012368.jpg",
     "static/media/laptop.jpg": "/Personal-website/static/media/laptop.f760e3d47734b293ce5d.jpg",
@@ -12,11 +12,11 @@
     "static/media/unit-testing.png": "/Personal-website/static/media/unit-testing.1d6d4eaa0fd12e9569a8.png",
     "static/media/analytics.png": "/Personal-website/static/media/analytics.d37178e26a8a020232a2.png",
     "index.html": "/Personal-website/index.html",
-    "main.da5421af.css.map": "/Personal-website/static/css/main.da5421af.css.map",
-    "main.3a58af35.js.map": "/Personal-website/static/js/main.3a58af35.js.map"
+    "main.15a4942f.css.map": "/Personal-website/static/css/main.15a4942f.css.map",
+    "main.39be8fd0.js.map": "/Personal-website/static/js/main.39be8fd0.js.map"
   },
   "entrypoints": [
-    "static/css/main.da5421af.css",
-    "static/js/main.3a58af35.js"
+    "static/css/main.15a4942f.css",
+    "static/js/main.39be8fd0.js"
   ]
 }
